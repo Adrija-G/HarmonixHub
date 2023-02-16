@@ -1,1 +1,1 @@
-# This is a clone of Spotify I will be developing, with the help of HTML, CSS & Javascript, over the course of a few weeks, or whenever I get time. This ReadME file will be updated once the process is complete!
+This is an attempt at developing the model of a basic music player, with the help of HTML, CSS & Javascript, over the course of a few weeks, with help from a few external sources.
